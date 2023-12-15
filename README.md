@@ -26,13 +26,13 @@ To run **Smartshoe** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/
+sudo git clone https://github.com/Blackhat-red-team/Smartshoe.github.io.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/
+git clone https://github.com/Blackhat-red-team/Smartshoe.github.io.git
 ```
 
 ### Contact
