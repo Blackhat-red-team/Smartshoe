@@ -5,7 +5,7 @@
 
   Smartshoe is fully responsive ecommerce website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://.github.io//"><strong>➥ Live Demo</strong></a>
+  <a href="https://blackhat-red-team.github.io/Smartshoe.github.io/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
